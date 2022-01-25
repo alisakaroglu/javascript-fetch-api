@@ -5,3 +5,6 @@
 - Json File (.json()) Usage.
 - Github Api (.json()) Usage.
 A simple explanation has been tried.
+-------------
+![](img/fetch-api.png)
+![](img/github-api.png)
